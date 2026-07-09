@@ -1,7 +1,7 @@
 # 426project
 CS 426 Summer Session Project:
 
-Grace Foley
+Theresa Foley
 Amanda Sherman
 
 Domain description TBD
