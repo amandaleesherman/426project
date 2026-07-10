@@ -1,8 +1,7 @@
-# 426project
-CS 426 Summer Session Project (Team 10):
+# CS 426 Summer 2026 (Team 10):
 
 Theresa Foley theresafoley.github.io  tfoley@umass.edu
-Amanda Sherman
+Amanda Sherman amandaleesherman.github.io asherman@umass.edu
 
 Domain description TBD
 
