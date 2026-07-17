@@ -1,5 +1,5 @@
 ##Community Emergency Response System
 
-##Domain:
-##Scalability Problem:
-##Computing for the Common Good (CFTCG):
+##Domain: A distributed platform that connects residents, emergency responders, shelters, food banks, healthcare providers, and volunteers during natural disasters and large-scale emergencies. The system enables users to report urgent needs, locate available resources, request assistance, and coordinate volunteer efforts in real time.
+##Scalability Problem: During disasters such as hurricanes, floods, or wildfires, thousands of users may simultaneously submit emergency requests, search for shelters, update resource availability, and receive notifications. A single centralized server would quickly become overwhelmed, resulting in slow response times or outages. A distributed architecture allows requests to be processed across multiple servers, providing high availability, fault tolerance, and the ability to scale as demand increases.
+##Computing for the Common Good (CFTCG): This system supports the common good by improving access to critical emergency services for disaster-affected communities, especially low-income families, older adults, people with disabilities, and emergency response organizations. By providing reliable, real-time information and coordinating resources efficiently, the platform helps ensure that life-saving assistance reaches people as quickly as possible, reducing delays and improving emergency response outcomes.
